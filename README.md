@@ -1,1 +1,1 @@
-![Circuit Schematic](images/bmpschem.png)
+![Circuit Schematic](bmpschem.png)
